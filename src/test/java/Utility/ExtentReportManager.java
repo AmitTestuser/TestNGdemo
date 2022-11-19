@@ -13,7 +13,7 @@ public class ExtentReportManager {
 
 		Date date = new  Date();
 		String time = date.getTime()+""; // getting time in milli sec
-		extentReport = new ExtentReports(System.getProperty("user.dir")+"/target/data-output/"+reportName+"_"+time+".html");
+		extentReport = new ExtentReports(System.getProperty("user.dir")+"/test-output/test_results.html");
 		
 	
 	}
