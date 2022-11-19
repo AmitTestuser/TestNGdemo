@@ -204,8 +204,9 @@ public class PO_NopCommerce {
 	
 	public void selectWebsitesDevelopmentPeriodId(String strWDid) throws InterruptedException {
 		Select select = new Select(WebsitesDevelopmentPeriodId);
-		select.selectByVisibleText(strWDid);
 		System.out.println("Development:"+strWDid);
+		select.selectByVisibleText(strWDid);
+		
 		Thread.sleep(2000);
 		ExtentReportManager.extentTest.log(LogStatus.INFO, "Selecting Development Time period", "Time used:"+strWDid);
 

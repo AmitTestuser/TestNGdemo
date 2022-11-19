@@ -3,17 +3,17 @@
 	{
 		"Firstname":"Amit",
 		"Lastname":"Nitnaware",
-		"email":"amit03471655464@gmail.com", 
-		"ConfirmEmail":"amit03471655464@gmail.com", 
-		"UserName":"amit_20027337165464", 
+		"email":"amit034716554645@gmail.com", 
+		"ConfirmEmail":"amit034716554645@gmail.com", 
+		"UserName":"amit_200273371654645", 
 		"CountryName":"India", 
 		"TimeZone":"(UTC-10:00) Hawaii", 
 		"password":"Pass@1234", 
 		"confirmPassword":"Pass@1234", 
 		"companyPrimarily":"Develops nopCommerce extensions", 
 		"mainActivity":"Technical developer", 
-		"developmentTime":"1–3 years", 
-		"workingYears":"6–15", 
+		"developmentTime":"3 years", 
+		"workingYears":"15", 
 		"yourUrl":"https://www.google.com/",
 		"ExpectedResult":"Almost done! To complete your nopCommerce registration, we just need to verify your email address. You have just been sent an email to confirm your email address. Open the email, and click the link to confirm your address"
 	
