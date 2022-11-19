@@ -1,0 +1,173 @@
+{
+	"Valid":
+	{
+		"Firstname":"Amit",
+		"Lastname":"Nitnaware",
+		"email":"amit03471655464@gmail.com", 
+		"ConfirmEmail":"amit03471655464@gmail.com", 
+		"UserName":"amit_20027337165464", 
+		"CountryName":"India", 
+		"TimeZone":"(UTC-10:00) Hawaii", 
+		"password":"Pass@1234", 
+		"confirmPassword":"Pass@1234", 
+		"companyPrimarily":"Develops nopCommerce extensions", 
+		"mainActivity":"Technical developer", 
+		"developmentTime":"1–3 years", 
+		"workingYears":"6–15", 
+		"yourUrl":"https://www.google.com/",
+		"ExpectedResult":"Almost done! To complete your nopCommerce registration, we just need to verify your email address. You have just been sent an email to confirm your email address. Open the email, and click the link to confirm your address"
+	
+	},
+	
+	
+	
+	
+	"Invalid_email":
+	{
+		"Firstname":"Amit2311",
+		"Lastname":"Nitnaware3232",
+		"email":"amitfsdfa03gmailm", 
+		"ConfirmEmail":"amitfsdfa03gmailm",
+		"ExpectedResult":"Wrong email" 
+		
+		
+	},
+	
+	"Blank":
+	{
+		"Firstname":"",
+		"Lastname":"",
+		"email":"", 
+		"ConfirmEmail":"", 
+		"UserName":"", 
+		"CountryName":"", 
+		"TimeZone":"", 
+		"password":"", 
+		"confirmPassword":"", 
+		"companyPrimarily":"", 
+		"mainActivity":"", 
+		"developmentTime":"", 
+		"workingYears":"", 
+		"yourUrl":""
+	
+	},
+	
+	"NameNumberSpecialSymbol":
+	{
+		"Firstname":"Amit@%&#*",
+		"Lastname":"Nitn%#@{}*",
+		"email":"amitfsdfa03@gmail.com", 
+		"ConfirmEmail":"amidfst#@@03@gmail.com", 
+		"UserName":"amit_2sdf0033", 
+		"CountryName":"Indfsdia", 
+		"TimeZone":"(UTC-10:00) Hawfsdafaii", 
+		"password":"Pass@12@$3afsd34", 
+		"confirmPassword":"Pass@1234", 
+		"companyPrimarily":"Devsdf#elops nosdfadfpCommerce extensions", 
+		"mainActivity":"# developer", 
+		"developmentTime":"1–3 sdfa41#years", 
+		"workingYears":"6–15aaa", 
+		"yourUrl":"www.googlfsdfecaefe.cofsdfm"
+		
+	},
+	
+	
+	"DoubleSpace":
+	{
+		"Firstname":"  ",
+		"Lastname":"  ",
+		"email":"  ", 
+		"ConfirmEmail":"  ", 
+		"UserName":"  ", 
+		"CountryName":"  ", 
+		"TimeZone":"  ", 
+		"password":"  ", 
+		"confirmPassword":"  ", 
+		"companyPrimarily":"  ", 
+		"mainActivity":"  ", 
+		"developmentTime":"  ", 
+		"workingYears":"  ", 
+		"yourUrl":"  "
+	
+	},
+	
+	"LessCharater":
+	{
+		"Firstname":"a",
+		"Lastname":"b",
+		"email":"d", 
+		"ConfirmEmail":"e", 
+		"UserName":"f", 
+		"CountryName":"g", 
+		"TimeZone":"m", 
+		"password":"d", 
+		"confirmPassword":"d", 
+		"companyPrimarily":"v", 
+		"mainActivity":"m", 
+		"developmentTime":"q", 
+		"workingYears":"p", 
+		"yourUrl":"o"
+	
+	},
+	
+	"MaxChracter":
+	{
+		"Firstname":"amitadsfjasdlkjfafsfdfjaldskjf;laskdj;lfkjasd;lkf jalskdjf;lkas jeifjasldkfjla skdjflaksjdflkjasdl;kfj;laskdjf;lkajsd;lkfjas;ldjf;lkasjd;lfjas;ldjf;laksdj;fljasiejf;laksdf;lkajsd;lfjas;dlkj;vlasdjv;lase;lfkjsaldjf;laksdm;flkjasd;lkff;lkajsd ofij elfija sl;fij sdifjeojf'aekjf;lsdjf;lskdajf ls;adkfj;asdfjsdf; sdlfjsdfsjas;ldkjf;lass",
+		"Lastname":"bdsfajsdlfkajsfadskf;lkas'eokf;sldvmk'asogm;sad'mf',;ladsmg';alsemf;sld'mglame'f;kasdmflk;ansdf;lknasd;lvnas;ldkvn;laskdnv;lasnd;voknsaev;,ase;lkvnasd;lkvn;.,dmd'vlkns;lrng';mng;lvasdnfk;japekljfnas;dfnlsakdjf;lksanv;lkncxbmnxc.vmzxl;kfnase;lfkn;sadlkmvoasdnf;lesnf;dsf;laksdjf lkajsdfl kjsadlf;kjsad;lkfj;asldjf;lskadjfkmzd;vlkm;slkdnv;dnsf;dlkfjasd",
+		"email":"amitadsfjasdlkjfafsfdfjaldskjf;laskdj;lfkjasd;lkf jalskdjf;lkas jeifjasldkfjla skdjflaksjdflkjasdl;kfj;laskdjf;lkajsd;lkfjas;ldjf;lkasjd;lfjas;ldjf;laksdj;fljasiejf;laksdf;lkajsd;lfjas;dlkj;vlasdjv;lase;lfkjsaldjf;laksdm;flkjasd;lkff;lkajsd ofij elfija sl;fij sdifjeojf'aekjf;lsdjf;lskdajf ls;adkfj;asdfjsdf; sdlfjsdfsjas;ldkjf;lass", 
+		"ConfirmEmail":"amitadsfjasdlkjfafsfdfjaldskjf;laskdj;lfkjasd;lkf jalskdjf;lkas jeifjasldkfjla skdjflaksjdflkjasdl;kfj;laskdjf;lkajsd;lkfjas;ldjf;lkasjd;lfjas;ldjf;laksdj;fljasiejf;laksdf;lkajsd;lfjas;dlkj;vlasdjv;lase;lfkjsaldjf;laksdm;flkjasd;lkff;lkajsd ofij elfija sl;fij sdifjeojf'aekjf;lsdjf;lskdajf ls;adkfj;asdfjsdf; sdlfjsdfsjas;ldkjf;lass", 
+		"UserName":"famitadsfjasdlkjfafsfdfjaldskjf;laskdj;lfkjasd;lkf jalskdjf;lkas jeifjasldkfjla skdjflaksjdflkjasdl;kfj;laskdjf;lkajsd;lkfjas;ldjf;lkasjd;lfjas;ldjf;laksdj;fljasiejf;laksdf;lkajsd;lfjas;dlkj;vlasdjv;lase;lfkjsaldjf;laksdm;flkjasd;lkff;lkajsd ofij elfija sl;fij sdifjeojf'aekjf;lsdjf;lskdajf ls;adkfj;asdfjsdf; sdlfjsdfsjas;ldkjf;lass", 
+		"CountryName":"gamitadsfjasdlkjfafsfdfjaldskjf;laskdj;lfkjasd;lkf jalskdjf;lkas jeifjasldkfjla skdjflaksjdflkjasdl;kfj;laskdjf;lkajsd;lkfjas;ldjf;lkasjd;lfjas;ldjf;laksdj;fljasiejf;laksdf;lkajsd;lfjas;dlkj;vlasdjv;lase;lfkjsaldjf;laksdm;flkjasd;lkff;lkajsd ofij elfija sl;fij sdifjeojf'aekjf;lsdjf;lskdajf ls;adkfj;asdfjsdf; sdlfjsdfsjas;ldkjf;lass", 
+		"TimeZone":"mamitadsfjasdlkjfafsfdfjaldskjf;laskdj;lfkjasd;lkf jalskdjf;lkas jeifjasldkfjla skdjflaksjdflkjasdl;kfj;laskdjf;lkajsd;lkfjas;ldjf;lkasjd;lfjas;ldjf;laksdj;fljasiejf;laksdf;lkajsd;lfjas;dlkj;vlasdjv;lase;lfkjsaldjf;laksdm;flkjasd;lkff;lkajsd ofij elfija sl;fij sdifjeojf'aekjf;lsdjf;lskdajf ls;adkfj;asdfjsdf; sdlfjsdfsjas;ldkjf;lass", 
+		"password":"damitadsfjasdlkjfafsfdfjaldskjf;laskdj;lfkjasd;lkf jalskdjf;lkas jeifjasldkfjla skdjflaksjdflkjasdl;kfj;laskdjf;lkajsd;lkfjas;ldjf;lkasjd;lfjas;ldjf;laksdj;fljasiejf;laksdf;lkajsd;lfjas;dlkj;vlasdjv;lase;lfkjsaldjf;laksdm;flkjasd;lkff;lkajsd ofij elfija sl;fij sdifjeojf'aekjf;lsdjf;lskdajf ls;adkfj;asdfjsdf; sdlfjsdfsjas;ldkjf;lass", 
+		"confirmPassword":"damitadsfjasdlkjfafsfdfjaldskjf;laskdj;lfkjasd;lkf jalskdjf;lkas jeifjasldkfjla skdjflaksjdflkjasdl;kfj;laskdjf;lkajsd;lkfjas;ldjf;lkasjd;lfjas;ldjf;laksdj;fljasiejf;laksdf;lkajsd;lfjas;dlkj;vlasdjv;lase;lfkjsaldjf;laksdm;flkjasd;lkff;lkajsd ofij elfija sl;fij sdifjeojf'aekjf;lsdjf;lskdajf ls;adkfj;asdfjsdf; sdlfjsdfsjas;ldkjf;lass", 
+		"companyPrimarily":"amitadsfjasdlkjfafsfdfjaldskjf;laskdj;lfkjasd;lkf jalskdjf;lkas jeifjasldkfjla skdjflaksjdflkjasdl;kfj;laskdjf;lkajsd;lkfjas;ldjf;lkasjd;lfjas;ldjf;laksdj;fljasiejf;laksdf;lkajsd;lfjas;dlkj;vlasdjv;lase;lfkjsaldjf;laksdm;flkjasd;lkff;lkajsd ofij elfija sl;fij sdifjeojf'aekjf;lsdjf;lskdajf ls;adkfj;asdfjsdf; sdlfjsdfsjas;ldkjf;lassv", 
+		"mainActivity":"amitadsfjasdlkjfafsfdfjaldskjf;laskdj;lfkjasd;lkf jalskdjf;lkas jeifjasldkfjla skdjflaksjdflkjasdl;kfj;laskdjf;lkajsd;lkfjas;ldjf;lkasjd;lfjas;ldjf;laksdj;fljasiejf;laksdf;lkajsd;lfjas;dlkj;vlasdjv;lase;lfkjsaldjf;laksdm;flkjasd;lkff;lkajsd ofij elfija sl;fij sdifjeojf'aekjf;lsdjf;lskdajf ls;adkfj;asdfjsdf; sdlfjsdfsjas;ldkjf;lassm", 
+		"developmentTime":"amitadsfjasdlkjfafsfdfjaldskjf;laskdj;lfkjasd;lkf jalskdjf;lkas jeifjasldkfjla skdjflaksjdflkjasdl;kfj;laskdjf;lkajsd;lkfjas;ldjf;lkasjd;lfjas;ldjf;laksdj;fljasiejf;laksdf;lkajsd;lfjas;dlkj;vlasdjv;lase;lfkjsaldjf;laksdm;flkjasd;lkff;lkajsd ofij elfija sl;fij sdifjeojf'aekjf;lsdjf;lskdajf ls;adkfj;asdfjsdf; sdlfjsdfsjas;ldkjf;lassq", 
+		"workingYears":"amitadsfjasdlkjfafsfdfjaldskjf;laskdj;lfkjasd;lkf jalskdjf;lkas jeifjasldkfjla skdjflaksjdflkjasdl;kfj;laskdjf;lkajsd;lkfjas;ldjf;lkasjd;lfjas;ldjf;laksdj;fljasiejf;laksdf;lkajsd;lfjas;dlkj;vlasdjv;lase;lfkjsaldjf;laksdm;flkjasd;lkff;lkajsd ofij elfija sl;fij sdifjeojf'aekjf;lsdjf;lskdajf ls;adkfj;asdfjsdf; sdlfjsdfsjas;ldkjf;lassp", 
+		"yourUrl":"amitadsfjasdlkjfafsfdfjaldskjf;laskdj;lfkjasd;lkf jalskdjf;lkas jeifjasldkfjla skdjflaksjdflkjasdl;kfj;laskdjf;lkajsd;lkfjas;ldjf;lkasjd;lfjas;ldjf;laksdj;fljasiejf;laksdf;lkajsd;lfjas;dlkj;vlasdjv;lase;lfkjsaldjf;laksdm;flkjasd;lkff;lkajsd ofij elfija sl;fij sdifjeojf'aekjf;lsdjf;lskdajf ls;adkfj;asdfjsdf; sdlfjsdfsjas;ldkjf;lasso"
+	},
+	
+	"CombineNameNumberSymbol":
+	{
+		"Firstname":"amit@#123",
+		"Lastname":"pass@#123",
+		"email":"amitfsdfa03@gmail.com", 
+		"ConfirmEmail":"amidfst03@gmail.com", 
+		"UserName":"amit_2sdf0033", 
+		"CountryName":"Indfsdia", 
+		"TimeZone":"(UTC-10:00) Hawfsdafaii@#", 
+		"password":"Pass@12@$3afsd34", 
+		"confirmPassword":"Pass345@1234", 
+		"companyPrimarily":"Devsdf#elops nosd53453454fadfpCommerce extensions", 
+		"mainActivity":"# develop345345er", 
+		"developmentTime":"1–3 sdfa3453441#years", 
+		"workingYears":"6–15a35435aa", 
+		"yourUrl":"www.googlfsdfeca45345efe.cofsdfm"
+	},
+	
+	"OnlyNumber":{
+	
+		"Firstname":"12534534535243512",
+		"Lastname":"53454252345234",
+		"email":"34253452345", 
+		"ConfirmEmail":"453234523452", 
+		"UserName":"523452345", 
+		"CountryName":"523452346236", 
+		"TimeZone":"324523452345234", 
+		"password":"124313247684", 
+		"confirmPassword":"9866345089", 
+		"companyPrimarily":"456345634564", 
+		"mainActivity":"21241324132", 
+		"developmentTime":"2452345234523", 
+		"workingYears":"754746464657456", 
+		"yourUrl":"23452345234"
+	
+	}
+	
+	
+	
+	
+	
+
+}

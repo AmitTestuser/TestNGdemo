@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name ="Sign_up">
+	<test name = "DemoBlaze_SignUp_TestCase">
+	<parameter name="browser" value="chrome"/>
+	<parameter name="url" vale=""/>
+	
+	<classes>
+		<class name = "TestCase.DemoBlaze_SignUp_TestCase">
+		
+		</class>
+	</classes>
+	
+	
+	
+	</test>
+
+
+</suite>

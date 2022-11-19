@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<suite name="Register" verbose ="1">
+<test name="Facebook_TestCase">
+<parameter name ="browser" value ="chrome" />
+<parameter name ="url" value ="https://www.facebook.com/"/>
+<classes>
+<class name="TestCase.Facebook_TestCase"/>
+</classes>
+</test>
+</suite>

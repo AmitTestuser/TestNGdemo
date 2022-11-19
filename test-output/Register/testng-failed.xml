@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Register]">
+  <test thread-count="5" name="NopCommerce_TestCase(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="https://www.nopcommerce.com/en/register?returnUrl=%2Fen%2F"/>
+    <classes>
+      <class name="TestCase.NopCommerce_TestCase">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="stopReport"/>
+          <include name="beforeClass"/>
+          <include name="test_valid_data"/>
+        </methods>
+      </class> <!-- TestCase.NopCommerce_TestCase -->
+    </classes>
+  </test> <!-- NopCommerce_TestCase(failed) -->
+</suite> <!-- Failed suite [Register] -->
