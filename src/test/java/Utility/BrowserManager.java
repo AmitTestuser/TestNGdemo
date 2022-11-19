@@ -19,6 +19,8 @@ public class BrowserManager {
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
 		}
+		else{
+		}
 		return driver;
 	}
 	
